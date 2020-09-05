@@ -1,4 +1,4 @@
-# C programming
+# C/C++ programming
 
-A practice note of c programming
+A practice note of c/c++ programming
 
