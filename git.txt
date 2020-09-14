@@ -1,0 +1,36 @@
+# Git Important command:
+
+git init
+
+git add
+
+git commit -m
+
+git push
+
+git pull
+
+git branch <branch name>
+
+git checkout -b <branch name>
+
+git branch -d <branch name>
+
+git push origin --delete <branch name>
+
+git fetch
+git branch --track branch-name origin/branch-name
+
+git branch -a
+
+git remote add <remote name> <url>
+
+git remote set-url <new remote name> <url>
+
+git remote rm <remote name>
+
+git remote -v
+
+git status
+
+git log
