@@ -34,3 +34,5 @@ git remote -v
 git status
 
 git log
+
+git log --oneline
