@@ -36,3 +36,14 @@ git status
 git log
 
 git log --oneline
+
+//undoing file before adding them
+git checkout -- <file name>
+
+git checkout -- .                   ///undoing all file
+
+git revert <address>                ///will commit automatically
+
+git revert -n <address>             ///will not commit automatically
+
+git reset --hard <address>          ///resets everything, deleting every commit that we wanna pass.
