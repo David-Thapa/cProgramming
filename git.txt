@@ -1,4 +1,5 @@
 # Git Important command:
+-u will always helps keeping file tracked.
 
 git init
 
