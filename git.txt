@@ -1,3 +1,6 @@
+g++.exe: fatal error: no input files
+if such error occurs then rename the file without space.
+
 # Git Important command:
 -u will always helps keeping file tracked.
 
