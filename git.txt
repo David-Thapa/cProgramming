@@ -51,3 +51,5 @@ git revert <address>                ///will commit automatically
 git revert -n <address>             ///will not commit automatically
 
 git reset --hard <address>          ///resets everything, deleting every commit that we wanna pass.
+
+git cherry pick address			// It will allow us to get back file after reseting if we want if we have address
